@@ -5,6 +5,7 @@
 			"plugins": ["net.runelite.client.plugins.detailedtimers.DetailedTimersPlugin"],
 			"version": "69",
 			"path": "https://github.com/rsnerd/plugins/blob/main/cAnalytics-FREE.jar",
+			"hash": "BDE4A1FE302EB709081CF805A7AB47188F287CFCCEBEE3B012A8117C34D92994",
 			"description": "hit low tick"
 		}
 	]
